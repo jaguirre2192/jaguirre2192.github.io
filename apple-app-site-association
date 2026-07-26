@@ -1,0 +1,29 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "75TSV8BARQ.com.jorgeaguirre.Axiom"
+        ],
+        "components": [
+          {
+            "/": "/axiom/invite",
+            "comment": "Open an Axiom reflection invite."
+          },
+          {
+            "/": "/axiom/invite/*",
+            "comment": "Open an Axiom reflection invite."
+          },
+          {
+            "/": "/axiom/reply",
+            "comment": "Open an encrypted Axiom reply."
+          },
+          {
+            "/": "/axiom/reply/*",
+            "comment": "Open an encrypted Axiom reply."
+          }
+        ]
+      }
+    ]
+  }
+}
